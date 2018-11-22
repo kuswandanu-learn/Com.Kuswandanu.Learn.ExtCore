@@ -44,11 +44,6 @@ namespace Com.Kuswandanu.Learn.ExtCore
             }
 
             app.UseExtCore();
-
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync(ExtensionManager.GetInstance<IExtension>().Name);
-            });
         }
     }
 }
