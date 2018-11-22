@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ExtCore.Data.EntityFramework.Sqlite" Version="3.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExtCore.ExtensionA.Data.Abstractions\ExtCore.ExtensionA.Data.Abstractions.csproj" />
+    <ProjectReference Include="..\ExtCore.ExtensionA.Data.Entities\ExtCore.ExtensionA.Data.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
