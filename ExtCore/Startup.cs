@@ -11,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Com.Kuswandanu.Learn.ExtCore
+namespace ExtCore
 {
     public class Startup
     {

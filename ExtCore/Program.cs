@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Com.Kuswandanu.Learn.ExtCore
+namespace ExtCore
 {
     public class Program
     {

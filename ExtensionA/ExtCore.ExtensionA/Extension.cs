@@ -1,7 +1,7 @@
 ﻿using ExtCore.Infrastructure;
 using System;
 
-namespace Com.Kuswandanu.Learn.ExtCore.ExtensionA
+namespace ExtCore.ExtensionA
 {
     public class Extension : ExtensionBase
     {

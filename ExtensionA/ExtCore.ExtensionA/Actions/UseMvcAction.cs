@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Routing;
 using System;
 
-namespace Com.Kuswandanu.Learn.ExtCore.ExtensionA.Actions
+namespace ExtCore.ExtensionA.Actions
 {
     public class UseMvcAction : IUseMvcAction
     {

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Com.Kuswandanu.Learn.ExtCore.ExtensionA.Controllers
+namespace ExtCore.ExtensionA.Controllers
 {
     public class DefaultController : Controller
     {
